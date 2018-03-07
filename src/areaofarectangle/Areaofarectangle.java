@@ -8,7 +8,7 @@ package areaofarectangle;
 
 /**
  *
- * @author nickd
+ * @author nider6687
  */
 public class Areaofarectangle {
 
